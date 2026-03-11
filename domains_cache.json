@@ -1,0 +1,10 @@
+{
+    "webhook_url": "https:\/\/expereo.webhook.office.com\/webhookb2\/11fd7614-449d-4282-8e25-8417b8949fa7@d8b0675b-bea4-4002-9289-1da6ecc1ab6c\/IncomingWebhook\/abaeb08b165b42419d5309139876022e\/33832e6f-82d3-409d-9c5a-bde5cf95e133\/V2D8weIieAOJSZoEIqozhNwdQvBILmdmMd7VPs0m6irw81",
+    "dashboard_url": "https:\/\/itops.expereo.com\/domains\/",
+    "enabled": true,
+    "notify_days": [
+        7,
+        14,
+        30
+    ]
+}
